@@ -43,6 +43,11 @@ I am **0xGonzalo**, an Electronic Artist and Creative Coder from Buenos Aires co
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Creative Suite](https://img.shields.io/badge/Adobe_CC-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
+![TouchDesigner](https://img.shields.io/badge/TouchDesigner-000000?style=for-the-badge&logo=touchdesigner&logoColor=white)
+![Ableton Live](https://img.shields.io/badge/Ableton_Live-000000?style=for-the-badge&logo=abletonlive&logoColor=white)
+![Max](https://img.shields.io/badge/Max-333333?style=for-the-badge)
+
+</div>
 
 </div>
 
