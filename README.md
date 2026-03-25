@@ -66,16 +66,6 @@ I am **0xGonzalo**, an Electronic Artist and Creative Coder from Buenos Aires co
 
 ---
 
-### `> contribution_graph`
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/0xgonzalo/0xgonzalo/output/github-snake-dark.svg)
-
-</div>
-
----
-
 ### `> connect`
 
 <div align="center">
