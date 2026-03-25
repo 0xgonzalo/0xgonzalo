@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=70&lines=Multimedia+Developer+from+Buenos+Aires+%F0%9F%87%A6%F0%9F%87%B7;Building+at+the+intersection+of+code+%26+design;Exploring+the+decentralized+frontier+%E2%9B%93)](https://github.com/0xgonzalo)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=70&lines=Multimedia+Developer+from+Buenos+Aires+%F0%9F%87%A6%F0%9F%87%B7;Building+at+the+intersection+of+art+%26+technology;Exploring+the+decentralized+frontier+%E2%9B%93)](https://github.com/0xgonzalo)
 
 </div>
 
@@ -10,10 +10,10 @@
 
 ### `> whoami`
 
-I am **Gonzalo**, a multimedia dev from Buenos Aires combining design, code, and blockchain to create unique experiences. I am passionate about building products in Web3 and exploring new forms of digital interaction.
+I am **0xGonzalo**, an Electronic Artist and Creative Coder from Buenos Aires combining music, arts, design, code, and blockchain to create unique experiences. I am passionate about building products in Web3, AI, AR/XR and exploring new forms of digital interaction.
 
-- 🔭 Actualmente trabajando en **smart contracts & dApps**
-- 🎨 Background en **multimedia y diseño**
+- 🔭 Working with **AR Framework**
+- 🎨 Background on **multimedia design**
 - ⛓️ Deep into **DeFi, NFTs & onchain culture**
 - 🌎 Based in **Buenos Aires, Argentina**
 
@@ -43,7 +43,6 @@ I am **Gonzalo**, a multimedia dev from Buenos Aires combining design, code, and
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Creative Suite](https://img.shields.io/badge/Adobe_CC-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
 </div>
 
