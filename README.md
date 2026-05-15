@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=70&lines=Multimedia+Developer+from+Buenos+Aires+%F0%9F%87%A6%F0%9F%87%B7;Building+at+the+intersection+of+art+%26+technology;Exploring+the+decentralized+frontier+%E2%9B%93)](https://github.com/0xgonzalo)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=70&lines=Multimedia+Developer+from+Buenos+Aires+%F0%9F%87%A6%F0%9F%87%B7;Building+at+the+intersection+of+art+%26+tech;Exploring+the+decentralized+frontier+%E2%9B%93)](https://github.com/0xgonzalo)
 
 </div>
 
